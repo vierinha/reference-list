@@ -26,6 +26,7 @@ Exprimental repository for referencing presentations and educational material re
 
 ### TypeScript
 - :heavy_plus_sign: [How I Learned To Stop Worrying And Trust The Compiler - Jan 16, 2018](https://www.youtube.com/watch?v=mgTenYbX2Kw)
+- :heavy_plus_sign: [How to Inject TypeScript Into Existing Projects - Jul 29, 2019](https://www.youtube.com/watch?v=-htA_n4P7gQ)
 
 ### Git
 - :scroll: [Introduction to Git with Scott Chacon of GitHub - Jul 27, 2011](https://www.youtube.com/watch?v=ZDR433b0HJY)
