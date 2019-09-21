@@ -18,7 +18,8 @@ Exprimental repository for referencing presentations and educational material re
 - :heavy_plus_sign: [Java Modules: Why and How? - Sep 18, 2019](https://www.youtube.com/watch?v=DItYExUOPeM)
 
 ### Spring Boot
-- :heavy_plus_sign: [The Reactive Revolution - Sep 17, 2019](https://www.youtube.com/watch?v=Y-r_S2UAzGY)
+- :fire: [The Reactive Revolution - Sep 17, 2019](https://www.youtube.com/watch?v=Y-r_S2UAzGY)
+- :fire: [Spring Tips: Be Lazy AND Fast with Spring Boot 2.2 - Mar 14, 2019](https://www.youtube.com/watch?v=_m4xpHUf55E)
 - :heavy_plus_sign: [Five Spring Security Concepts - Authentication vs authorization - Aug 12, 2019](https://www.youtube.com/watch?v=I0poT4UxFxE)
 
 ### React
