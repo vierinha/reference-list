@@ -25,12 +25,16 @@ Exprimental repository for referencing presentations and educational material re
 - :fire: [Spring Tips: Be Lazy AND Fast with Spring Boot 2.2 - Mar 14, 2019](https://www.youtube.com/watch?v=_m4xpHUf55E)
 - :star: [Five Spring Security Concepts - Authentication vs authorization - Aug 12, 2019](https://www.youtube.com/watch?v=I0poT4UxFxE)
 
-### React
-- :books: [React JS Crash Course - Jan 3, 2019](https://www.youtube.com/watch?v=sBws8MSXN7A)
+### JavaScript
+- :star: [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU - Jun 6, 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
+- :star: [Ryan Dahl - Deno, a new way to JavaScript - Aug 28, 2019](https://www.youtube.com/watch?v=HjdJzNoT_qg)
 
 ### TypeScript
 - :star: [How I Learned To Stop Worrying And Trust The Compiler - Jan 16, 2018](https://www.youtube.com/watch?v=mgTenYbX2Kw)
 - :star: [How to Inject TypeScript Into Existing Projects - Jul 29, 2019](https://www.youtube.com/watch?v=-htA_n4P7gQ)
+
+### React
+- :books: [React JS Crash Course - Jan 3, 2019](https://www.youtube.com/watch?v=sBws8MSXN7A)
 
 ### Git
 - :scroll: [Introduction to Git with Scott Chacon of GitHub - Jul 27, 2011](https://www.youtube.com/watch?v=ZDR433b0HJY)
@@ -44,6 +48,7 @@ Exprimental repository for referencing presentations and educational material re
 - :fire: [Supersonic, Subatomic Java with Quarkus. Burr Sutter, Red Hat - May 30, 2019](https://www.youtube.com/watch?v=iJBh2NoSCKM)
 
 ### DevOps
+- :fire: [GOTO 2019 - Modern Continuous Delivery - Ken Mugrage - Apr 9, 2020](https://www.youtube.com/watch?v=wjF4X9t3FMk)
 - :star: [The Death of DevOps (as we know it) - Jun 26, 2019](https://www.youtube.com/watch?v=GZbZ8YCfqhg)
 
 ### .NET
