@@ -28,6 +28,10 @@ Exprimental repository for referencing presentations and educational material re
 ### Quarkus
 - :fire: [Supersonic, Subatomic Java with Quarkus. Burr Sutter, Red Hat - May 30, 2019](https://www.youtube.com/watch?v=iJBh2NoSCKM)
 
+### Go
+- :star: [Sydney Golang Meetup - Rob Pike - Go 2 Draft Specifications - Nov 13, 2018](https://www.youtube.com/watch?v=RIvL2ONhFBI)
+- :star: [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
+
 ### JavaScript
 - :fire: [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU - Jun 6, 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 - :star: [Ryan Dahl - Deno, a new way to JavaScript - Aug 28, 2019](https://www.youtube.com/watch?v=HjdJzNoT_qg)
@@ -38,6 +42,9 @@ Exprimental repository for referencing presentations and educational material re
 
 ### React
 - :books: [React JS Crash Course - Jan 3, 2019](https://www.youtube.com/watch?v=sBws8MSXN7A)
+
+### WebAssembly
+- :star: [GOTO 2019 - WebAssembly Beyond the Browser - Dan Callahan - Jan 10, 2020](https://www.youtube.com/watch?v=TGo3vJVTlyQ)
 
 ### .NET
 - :fire: [.NET Platform Overview and Roadmap - May 6, 2019](https://www.youtube.com/watch?v=ZlO1utbB2GQ)
