@@ -47,7 +47,8 @@ Exprimental repository for referencing presentations and educational material re
 - :star: [GOTO 2019 - WebAssembly Beyond the Browser - Dan Callahan - Jan 10, 2020](https://www.youtube.com/watch?v=TGo3vJVTlyQ)
 
 ### .NET
-- :fire: [.NET Platform Overview and Roadmap - May 6, 2019](https://www.youtube.com/watch?v=ZlO1utbB2GQ)
+- :fire: [Keynote: The Future of Modern Application Development with .NET and Azure - Jun 8, 2021](https://www.youtube.com/watch?v=ba33CqjqacA)
+- :star: [.NET Platform Overview and Roadmap - May 6, 2019](https://www.youtube.com/watch?v=ZlO1utbB2GQ)
 - :star: [Full stack web development with ASP.NET Core 3.0 and Blazor - May 7, 2019](https://www.youtube.com/watch?v=y7LAbdoNBJA)
 
 ### Git
