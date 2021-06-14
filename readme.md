@@ -52,6 +52,8 @@ Exprimental repository for referencing presentations and educational material re
 - :star: [Full stack web development with ASP.NET Core 3.0 and Blazor - May 7, 2019](https://www.youtube.com/watch?v=y7LAbdoNBJA)
 
 ### Git
+- :star: [Continuous Integration vs Feature Branch Workflow - Jan 6, 2021](https://www.youtube.com/watch?v=v4Ijkq6Myfc)
+- :star: [Why CI is BETTER Than Feature Branching - May 26, 2021](https://www.youtube.com/watch?v=lXQEi1O5IOI)
 - :scroll: [Introduction to Git with Scott Chacon of GitHub - Jul 27, 2011](https://www.youtube.com/watch?v=ZDR433b0HJY)
 
 ### Visual Studio Code
