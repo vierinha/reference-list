@@ -12,8 +12,9 @@ Exprimental repository for referencing presentations and educational material re
 ## Videos
 
 ### Java
+- :fire: [Ask the Expert: Microsoft Build of OpenJDK - Apr 27, 2021](https://www.youtube.com/watch?v=zgKwPq0bEk4)
 - :fire: [The Diabolical Developer promises that Java is Still Free by Martijn Verburg - May 16, 2019](https://www.youtube.com/watch?v=T5Qg9tL81Ik)
-- :fire: [The Future of Java Is Now: Oracle Code One Keynote 2019 - 26:32 - Sep 18, 2019](https://www.youtube.com/watch?v=jVWIfw9eIcY&t=1592s)
+- :star: [The Future of Java Is Now: Oracle Code One Keynote 2019 - 26:32 - Sep 18, 2019](https://www.youtube.com/watch?v=jVWIfw9eIcY&t=1592s)
 - :star: [Beyond ByteBuffers by Brian Goetz - Nov 8, 2019](https://www.youtube.com/watch?v=iwSCtxMbBLI)
 - :star: [JDK 8: Lessons Learnt With Lambdas and Streams](https://www.youtube.com/watch?v=wZKmA6XodNE)
 - :star: [Java Modules: Why and How? - Sep 18, 2019](https://www.youtube.com/watch?v=DItYExUOPeM)
@@ -62,5 +63,7 @@ Exprimental repository for referencing presentations and educational material re
 - :scroll: [Visual Studio Code, now open source, with extensability - Nov 19, 2015](https://www.youtube.com/watch?v=x4-J1MpMGog)
 
 ### DevOps
+- :star: [Step by Step Guide to install Istio Service Mesh - Feb 26, 2021](https://www.youtube.com/watch?v=voAyroDb6xk)
 - :fire: [GOTO 2019 - Modern Continuous Delivery - Ken Mugrage - Apr 9, 2020](https://www.youtube.com/watch?v=wjF4X9t3FMk)
 - :star: [The Death of DevOps (as we know it) - Jun 26, 2019](https://www.youtube.com/watch?v=GZbZ8YCfqhg)
+
