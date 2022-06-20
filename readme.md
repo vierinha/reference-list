@@ -12,6 +12,7 @@ Exprimental repository for referencing presentations and educational material re
 ## Videos
 
 ### Java
+- :fire: [The Future of Java by Mark Little - May 18, 2022](https://www.youtube.com/watch?v=5n9PqIUObLA)
 - :fire: [Ask the Expert: Microsoft Build of OpenJDK - Apr 27, 2021](https://www.youtube.com/watch?v=zgKwPq0bEk4)
 - :fire: [The Diabolical Developer promises that Java is Still Free by Martijn Verburg - May 16, 2019](https://www.youtube.com/watch?v=T5Qg9tL81Ik)
 - :star: [The Future of Java Is Now: Oracle Code One Keynote 2019 - 26:32 - Sep 18, 2019](https://www.youtube.com/watch?v=jVWIfw9eIcY&t=1592s)
