@@ -12,15 +12,17 @@ Exprimental repository for referencing presentations and educational material re
 ## Videos
 
 ### Java
+- :fire: [The Diabolical Developer's Guide to JVM Ergonomics in Containers (Martijn Verburg) - Dec 30, 2022](https://www.youtube.com/watch?v=r6UAn3DnaXU)
+- :fire: [How Microsoft Learned to Love Java by Martijn Verburg - May 18, 2022](https://www.youtube.com/watch?v=y2_qiSNv8jA)
 - :fire: [The Future of Java by Mark Little - May 18, 2022](https://www.youtube.com/watch?v=5n9PqIUObLA)
 - :fire: [Ask the Expert: Microsoft Build of OpenJDK - Apr 27, 2021](https://www.youtube.com/watch?v=zgKwPq0bEk4)
 - :fire: [The Diabolical Developer promises that Java is Still Free by Martijn Verburg - May 16, 2019](https://www.youtube.com/watch?v=T5Qg9tL81Ik)
 - :star: [The Future of Java Is Now: Oracle Code One Keynote 2019 - 26:32 - Sep 18, 2019](https://www.youtube.com/watch?v=jVWIfw9eIcY&t=1592s)
 - :star: [Beyond ByteBuffers by Brian Goetz - Nov 8, 2019](https://www.youtube.com/watch?v=iwSCtxMbBLI)
-- :star: [JDK 8: Lessons Learnt With Lambdas and Streams](https://www.youtube.com/watch?v=wZKmA6XodNE)
 - :star: [Java Modules: Why and How? - Sep 18, 2019](https://www.youtube.com/watch?v=DItYExUOPeM)
 - :scroll: [JDK 9, 10, 11 and Beyond: Delivering New Feature in the JDK - Oct 3, 2018](https://www.youtube.com/watch?v=mFyzyVnYcoY)
 - :scroll: [The Future of the Java Platform and the JDK: Who is in Charge? - Aug 1, 2018](https://www.youtube.com/watch?v=HpbchS5kmio)
+- :scroll: [JDK 8: Lessons Learnt With Lambdas and Streams- Dec 21, 2016](https://www.youtube.com/watch?v=wZKmA6XodNE)
 
 ### Spring Boot
 - :fire: [The Reactive Revolution - Sep 17, 2019](https://www.youtube.com/watch?v=Y-r_S2UAzGY)
