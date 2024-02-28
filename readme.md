@@ -33,6 +33,7 @@ Exprimental repository for referencing presentations and educational material re
 - :fire: [Supersonic, Subatomic Java with Quarkus. Burr Sutter, Red Hat - May 30, 2019](https://www.youtube.com/watch?v=iJBh2NoSCKM)
 
 ### Go
+- :fire: [Rob Pike - What We Got Right, What We Got Wrong | GopherConAU 2023 - Jan 04, 2024](https://www.youtube.com/watch?v=yE5Tpp2BSGw)
 - :star: [Sydney Golang Meetup - Rob Pike - Go 2 Draft Specifications - Nov 13, 2018](https://www.youtube.com/watch?v=RIvL2ONhFBI)
 - :star: [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
 
